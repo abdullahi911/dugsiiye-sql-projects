@@ -306,3 +306,31 @@ java.nio.file.NoSuchFileException: C:\Users\Apdil\AppData\Roaming\DBeaverData\wo
 2026-04-13 20:31:56.787 - Datasource mysql8-19d82e902b8-14316b00ff45b35f not found in project General (/General/Scripts/Script.sql)
 > Start DBeaver ERD UI [org.jkiss.dbeaver.ui.editors.erd 3.1.17.202604051735]
 2026-04-13 20:32:05.462 - Datasource mysql8-19d82e902b8-14316b00ff45b35f not found in project General (/General/Scripts/Script.sql)
+2026-04-13 20:46:57.571 - Datasource mysql8-19d82e902b8-14316b00ff45b35f not found in project General (/General/Scripts/Script.sql)
+2026-04-13 20:46:59.344 - Datasource mysql8-19d82e902b8-14316b00ff45b35f not found in project General (/General/Scripts/Script.sql)
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.173.202604051735]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.model.erd 1.1.17.202604051735]
+2026-04-13 20:47:41.961 - Some data source listeners are still registered: org.jkiss.dbeaver.model.navigator.DBNProjectDatabases:node://dugsiiye-sql/datasources
+2026-04-13 20:47:59.132 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2026-04-13 20:47:59.274 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2026-04-13 20:48:06.688 - Connect with 'localhost' (mysql8-19d87f514bd-2b579d2ba2cf91ab)
+2026-04-13 20:48:06.691 - Execution context opened (localhost; Main; 3)
+2026-04-13 20:48:06.835 - Execution context opened (localhost; Metadata; 4)
+2026-04-13 20:48:06.960 - Connected (mysql8-19d87f514bd-2b579d2ba2cf91ab, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+2026-04-13 20:48:16.237 - Execution context opened (localhost; SQLEditor <Script.sql>; 5)
+2026-04-13 20:49:17.743 - Connect with 'localhost 2' (mysql8-19d85eada28-6a5f7594dc82d6ae)
+2026-04-13 20:49:17.745 - Execution context opened (localhost 2; Main; 6)
+2026-04-13 20:49:17.761 - Execution context opened (localhost 2; Metadata; 7)
+2026-04-13 20:49:17.830 - Connected (mysql8-19d85eada28-6a5f7594dc82d6ae, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+2026-04-13 20:49:17.939 - Execution context opened (localhost 2; SQLEditor <Script-3.sql>; 8)
+2026-04-13 20:53:32.689 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2026-04-13 20:53:32.853 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2026-04-13 20:53:38.217 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2026-04-13 20:53:38.323 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2026-04-13 20:53:42.964 - Connect with 'localhost 4' (mysql8-19d87fa417f-1e3cab1ccbf30316)
+2026-04-13 20:53:42.966 - Execution context opened (localhost 4; Main; 9)
+2026-04-13 20:53:42.983 - Execution context opened (localhost 4; Metadata; 10)
+2026-04-13 20:53:43.025 - Execution context opened (localhost 4; SQLEditor <Script-4.sql>; 11)
+2026-04-13 20:53:43.066 - Connected (mysql8-19d87fa417f-1e3cab1ccbf30316, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+> Start DBeaver Dashboards Model [org.jkiss.dbeaver.model.dashboard 1.0.49.202604051735]
+> Start DBeaver Data Transfer [org.jkiss.dbeaver.data.transfer 2.0.160.202604051735]
