@@ -1,0 +1,7 @@
+
+
+show tables;
+INSERT INTO teachers(name, email)
+VALUES ('salah', 'salah@email.com');
+
+
