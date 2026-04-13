@@ -12,3 +12,5 @@ INSERT INTO students (name, email) VALUES
 select * from students where email like '%@gmail.com%' and id > 2
 SELECT * FROM students
 WHERE name = 'Ayaan Mohamed' OR name = 'Hassan Ali';
+select * from students where email like '%gmail.com%' or name = 'ayaan'
+delete from students where id = 3;
