@@ -1,0 +1,13 @@
+
+
+show tables;
+INSERT INTO teachers(name, email)
+VALUES ('salah', 'salah@email.com');
+SELECT * FROM teachers;
+delete from teachers;
+select * from teachers;
+INSERT INTO teachers(name, email)
+VALUES ('salah', 'salah@email.com');
+select * from teachers;
+#update students set email = 'salah@gmail.com';
+select * from teachers;
