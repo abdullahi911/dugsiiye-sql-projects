@@ -1,0 +1,14 @@
+CREATE TABLE  employee (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    fname VARCHAR(15),
+    lname VARCHAR(15),
+    sex VARCHAR(6),
+    department varchar(30),
+    salam float,
+    
+);
+
+INSERT into employee (fname, lname, sex, salary)
+VALUES ('Salah', 'Adam', 'Male', 2000);
+
+SELECT * FROM employee;

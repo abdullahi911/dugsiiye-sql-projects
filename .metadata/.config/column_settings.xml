@@ -73,9 +73,9 @@
 		<column name="Comment" visible="true" order="3" width="94"/>
 	</item>
 	<item id="scriptSelectorViewer">
-		<column name="Script" visible="true" order="0" width="147"/>
-		<column name="Time" visible="true" order="1" width="184"/>
-		<column name="Info" visible="true" order="2" width="84"/>
-		<column name="Folder" visible="true" order="3" width="97"/>
+		<column name="Script" visible="true" order="0" width="171"/>
+		<column name="Time" visible="true" order="1" width="114"/>
+		<column name="Info" visible="true" order="2" width="108"/>
+		<column name="Folder" visible="true" order="3" width="121"/>
 	</item>
 </items>

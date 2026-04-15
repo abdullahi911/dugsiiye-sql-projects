@@ -1,0 +1,9 @@
+CREATE TABLE company (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    fname VARCHAR(100),
+    lname VARCHAR(100),
+    sex VARCHAR(10),
+    salary INT
+);
+delete from company;
+select * from company;

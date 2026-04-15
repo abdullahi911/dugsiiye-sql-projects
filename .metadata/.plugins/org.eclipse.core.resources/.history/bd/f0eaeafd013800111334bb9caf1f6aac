@@ -1,0 +1,12 @@
+
+CREATE TABLE company (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    fname VARCHAR(100),
+    lname VARCHAR(100),
+    sex VARCHAR(10),
+    salary INT
+);
+insert value (name,email,address)
+values ('salah','adam@gmail.com', "oo1")
+delete from company;
+select * from company;

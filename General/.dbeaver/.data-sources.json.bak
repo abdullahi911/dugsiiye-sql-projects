@@ -1,24 +1,100 @@
 {
 	"folders": {},
 	"connections": {
-		"dbeaver-sample-database-sqlite-1": {
-			"provider": "sqlite",
-			"driver": "sqlite_jdbc",
-			"name": "DBeaver Sample Database (SQLite)",
+		"mysql8-19d85eada28-6a5f7594dc82d6ae": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "localhost 2",
 			"save-password": true,
-			"show-system-objects": true,
 			"configuration": {
-				"database": "C:\\Users\\Apdil\\AppData\\Roaming\\DBeaverData\\workspace6\\.metadata\\sample-database-sqlite-1\\Chinook.db",
-				"url": "jdbc:sqlite:C:\\Users\\Apdil\\AppData\\Roaming\\DBeaverData\\workspace6\\.metadata\\sample-database-sqlite-1\\Chinook.db",
+				"host": "localhost",
+				"port": "3306",
+				"url": "jdbc:mysql://localhost:3306/",
 				"configurationType": "MANUAL",
 				"type": "dev",
-				"closeIdleConnection": true
+				"closeIdleConnection": true,
+				"provider-properties": {
+					"@dbeaver-show-all-dbs@": "true"
+				},
+				"auth-model": "native"
 			}
 		},
-		"mysql8-19d85e56140-4d188a171c4e530b": {
+		"mysql8-19d88102b75-17ec7387226ae179": {
 			"provider": "mysql",
 			"driver": "mysql8",
 			"name": "localhost",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"url": "jdbc:mysql://localhost:3306/",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"provider-properties": {
+					"@dbeaver-show-all-dbs@": "true"
+				},
+				"auth-model": "native"
+			}
+		},
+		"mysql8-19d8816f9eb-babef5959d71c0b": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "localhost 3",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"url": "jdbc:mysql://localhost:3306/",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"provider-properties": {
+					"@dbeaver-show-all-dbs@": "true"
+				},
+				"auth-model": "native"
+			}
+		},
+		"mysql8-19d881a9a74-21efdfc92622f13f": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "localhost 4",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"url": "jdbc:mysql://localhost:3306/",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"provider-properties": {
+					"@dbeaver-show-all-dbs@": "true"
+				},
+				"auth-model": "native"
+			}
+		},
+		"mysql8-19d8bf70d8c-61dce2f47b7ab92a": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "localhost 5",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"url": "jdbc:mysql://localhost:3306/",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"provider-properties": {
+					"@dbeaver-show-all-dbs@": "true"
+				},
+				"auth-model": "native"
+			}
+		},
+		"mysql8-19d92600ca0-203d743948431cee": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "localhost 6",
 			"save-password": true,
 			"configuration": {
 				"host": "localhost",
