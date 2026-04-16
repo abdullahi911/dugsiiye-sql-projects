@@ -1,25 +1,9 @@
 {
-	"folders": {},
+	"folders": {
+		"dugsiiye practice lessons": {}
+	},
 	"connections": {
-		"mysql8-19d85eada28-6a5f7594dc82d6ae": {
-			"provider": "mysql",
-			"driver": "mysql8",
-			"name": "localhost 2",
-			"save-password": true,
-			"configuration": {
-				"host": "localhost",
-				"port": "3306",
-				"url": "jdbc:mysql://localhost:3306/",
-				"configurationType": "MANUAL",
-				"type": "dev",
-				"closeIdleConnection": true,
-				"provider-properties": {
-					"@dbeaver-show-all-dbs@": "true"
-				},
-				"auth-model": "native"
-			}
-		},
-		"mysql8-19d88102b75-17ec7387226ae179": {
+		"mysql8-19d976353d4-51978b677cc4c4e3": {
 			"provider": "mysql",
 			"driver": "mysql8",
 			"name": "localhost",
@@ -37,7 +21,25 @@
 				"auth-model": "native"
 			}
 		},
-		"mysql8-19d8816f9eb-babef5959d71c0b": {
+		"mysql8-19d976d6ecd-1bf41d876097026": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "localhost 2",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"url": "jdbc:mysql://localhost:3306/",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"provider-properties": {
+					"@dbeaver-show-all-dbs@": "true"
+				},
+				"auth-model": "native"
+			}
+		},
+		"mysql8-19d978d4c27-33729111d21a3cc6": {
 			"provider": "mysql",
 			"driver": "mysql8",
 			"name": "localhost 3",
@@ -55,7 +57,7 @@
 				"auth-model": "native"
 			}
 		},
-		"mysql8-19d881a9a74-21efdfc92622f13f": {
+		"mysql8-19d978de93e-70b30bccbbc40389": {
 			"provider": "mysql",
 			"driver": "mysql8",
 			"name": "localhost 4",
@@ -73,7 +75,7 @@
 				"auth-model": "native"
 			}
 		},
-		"mysql8-19d8bf70d8c-61dce2f47b7ab92a": {
+		"mysql8-19d97de0c84-644428ff289b32bc": {
 			"provider": "mysql",
 			"driver": "mysql8",
 			"name": "localhost 5",
@@ -91,33 +93,16 @@
 				"auth-model": "native"
 			}
 		},
-		"mysql8-19d92600ca0-203d743948431cee": {
+		"mysql8-19d97dfb88a-58c97def7e6c6bc5": {
 			"provider": "mysql",
 			"driver": "mysql8",
-			"name": "localhost 6",
+			"name": "exercise 5",
 			"save-password": true,
 			"configuration": {
 				"host": "localhost",
 				"port": "3306",
-				"url": "jdbc:mysql://localhost:3306/",
-				"configurationType": "MANUAL",
-				"type": "dev",
-				"closeIdleConnection": true,
-				"provider-properties": {
-					"@dbeaver-show-all-dbs@": "true"
-				},
-				"auth-model": "native"
-			}
-		},
-		"mysql8-19d9262ccaf-4925d42cbd5e6923": {
-			"provider": "mysql",
-			"driver": "mysql8",
-			"name": "localhost 7",
-			"save-password": true,
-			"configuration": {
-				"host": "localhost",
-				"port": "3306",
-				"url": "jdbc:mysql://localhost:3306/",
+				"database": "exercise 5",
+				"url": "jdbc:mysql://localhost:3306/exercise 5",
 				"configurationType": "MANUAL",
 				"type": "dev",
 				"closeIdleConnection": true,

@@ -108,6 +108,42 @@
 				},
 				"auth-model": "native"
 			}
+		},
+		"mysql8-19d9262ccaf-4925d42cbd5e6923": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "localhost 7",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"url": "jdbc:mysql://localhost:3306/",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"provider-properties": {
+					"@dbeaver-show-all-dbs@": "true"
+				},
+				"auth-model": "native"
+			}
+		},
+		"mysql8-19d975b4861-1bf6a62b999ec383": {
+			"provider": "mysql",
+			"driver": "mysql8",
+			"name": "localhost 8",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "3306",
+				"url": "jdbc:mysql://localhost:3306/",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"provider-properties": {
+					"@dbeaver-show-all-dbs@": "true"
+				},
+				"auth-model": "native"
+			}
 		}
 	},
 	"connection-types": {

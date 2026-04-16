@@ -59,18 +59,12 @@ INSERT INTO courses (title) VALUES
 select * from courses
 select * from  score;
 
-INSERT INTO enrollment (score_id, courses_id)
-VALUES
-(1, 3),
-(1, 7),
-(2,5);
+insert into enrollment (score_id ,courses_id )
+values(1,3)
+values(1,8)
 
-select * from  enrollment ;
 
-# inner join 
-select score.name , courses.title from enrollment 
-join score on score_id = score.id 
-join courses on courses_id = courses.id;
+
 
 
 

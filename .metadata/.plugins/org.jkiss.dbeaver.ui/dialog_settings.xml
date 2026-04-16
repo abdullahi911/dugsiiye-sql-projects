@@ -10,7 +10,7 @@
 	<section name="DBeaver.QM.LogViewer">
 	</section>
 	<section name="DBeaver.StandardErrorDialog">
-		<item key="showDetails" value="false"/>
+		<item key="showDetails" value="true"/>
 		<item key="DIALOG_X_ORIGIN" value="199"/>
 		<item key="DIALOG_Y_ORIGIN" value="312"/>
 	</section>
@@ -18,8 +18,8 @@
 		<item key="folder" value="sql"/>
 	</section>
 	<section name="DBeaver.ActiveWizardDialog.NewConnectionWizard">
-		<item key="DIALOG_X_ORIGIN" value="103"/>
-		<item key="DIALOG_Y_ORIGIN" value="35"/>
+		<item key="DIALOG_X_ORIGIN" value="7"/>
+		<item key="DIALOG_Y_ORIGIN" value="7"/>
 		<item key="DIALOG_WIDTH" value="575"/>
 		<item key="DIALOG_HEIGHT" value="597"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
@@ -62,11 +62,5 @@
 		<item key="DIALOG_WIDTH" value="525"/>
 		<item key="DIALOG_HEIGHT" value="609"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
-	</section>
-	<section name="GotoObjectDialog">
-		<item key="ShowStatusLine" value="true"/>
-		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;"/>
-		<section name="mysql8">
-		</section>
 	</section>
 </section>
