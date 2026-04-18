@@ -1,0 +1,374 @@
+2026-04-16 20:32:32.145 - DBeaver 26.0.2.202604051735 is starting
+2026-04-16 20:32:32.151 - OS: Windows 11 10.0 (amd64)
+2026-04-16 20:32:32.151 - Java version: 21.0.8 by Eclipse Adoptium (64bit)
+2026-04-16 20:32:32.152 - Install path: 'C:\Users\Apdil\AppData\Local\DBeaver'
+2026-04-16 20:32:32.154 - Instance path: 'file:/C:/Users/Apdil/AppData/Roaming/DBeaverData/workspace6/'
+2026-04-16 20:32:32.162 - Memory available 64Mb/1024Mb
+2026-04-16 20:32:32.176 - Initialize desktop platform...
+2026-04-16 20:32:32.979 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.11.400.v20251107-0507]
+> Start Core Resource Management [org.eclipse.core.resources 3.23.200.v20251217-0810]
+> Start Team Support Core [org.eclipse.team.core 3.10.1000.v20260112-1030]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.176.202604051735]
+2026-04-16 20:32:33.707 - Initialize base platform...
+2026-04-16 20:32:33.824 - Schedule collected statistics send
+2026-04-16 20:32:33.826 - Platform initialized (1649ms)
+2026-04-16 20:32:33.866 - Create display
+2026-04-16 20:32:34.826 - Starting instance server at http://localhost:56256
+2026-04-16 20:32:34.881 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.18.0.v20260119-0835]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.5.300.v20251112-1253]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.600.v20251023-1358]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.5.0.v20251217-1052]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.15.0.v20251216-1230]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.700.v20250916-0927]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.40.0.v20251210-1145]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.15.0.v20251216-1230]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.6.0.v20251216-1230]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.17.0.v20260131-0926]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.300.v20240413-1529]
+> Start DBeaver AI Model [org.jkiss.dbeaver.model.ai 2.0.19.202604051735]
+> Start DBeaver AI UI [org.jkiss.dbeaver.ui.ai 1.0.78.202604051735]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.16.0.v20251216-1230]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.800.v20250613-1119]
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.4.700.v20250622-1644]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.6.0.v20251219-1227]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.22.0.202602231721]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.25.0.202602162234]
+> Start JFace Text [org.eclipse.jface.text 3.30.0.v20260203-0841]
+> Start Default Text Editor [org.eclipse.ui.editors 3.21.0.v20260218-1452]
+> Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.20.0.v20260127-1637]
+2026-04-16 20:32:39.680 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.166.202604051735]
+2026-04-16 20:32:40.190 - Total database drivers: 129 (129)
+> Start Help System Core [org.eclipse.help 3.11.0.v20251227-1159]
+2026-04-16 20:32:40.453 - Create actions
+2026-04-16 20:32:42.448 - Initialize workbench window
+2026-04-16 20:32:42.499 - Finish initialization
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.176.202604051735]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.176.202604051735]
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.152.202604051735]
+> Start Core Compare Support [org.eclipse.compare.core 3.8.800.v20250718-1505]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ui.config.sample 1.0.213.202604051735]
+2026-04-16 20:32:56.070 - Open [https://dbeaver.io/product/version.xml]
+> Start Console [org.eclipse.ui.console 3.16.0.v20260123-1616]
+> Start Debug Core [org.eclipse.debug.core 3.23.200.v20251107-0507]
+> Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.154.202604051735]
+> Start DBeaver MySQL UI Support [org.jkiss.dbeaver.ext.mysql.ui 1.0.168.202604051735]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.154.202604051735]
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.69.202604051735]
+> Start DBeaver MySQL Support [org.jkiss.dbeaver.ext.mysql 2.1.261.202604051735]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.173.202604051735]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.ui.editors.erd 3.1.17.202604051735]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.model.erd 1.1.17.202604051735]
+> Start DBeaver SQL Language Semantic Model [org.jkiss.dbeaver.model.lsm 1.0.71.202604051735]
+2026-04-16 20:32:59.705 - Connect with 'localhost' (mysql8-19d88102b75-17ec7387226ae179)
+2026-04-16 20:32:59.706 - Connect with 'localhost 5' (mysql8-19d8bf70d8c-61dce2f47b7ab92a)
+2026-04-16 20:32:59.825 - Execution context opened (localhost; Main; 1)
+2026-04-16 20:32:59.826 - Execution context opened (localhost 5; Main; 0)
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.200.202604051735]
+2026-04-16 20:33:00.310 - Execution context closed (localhost, 1)
+2026-04-16 20:33:00.311 - Execution context closed (localhost 5, 0)
+2026-04-16 20:33:22.687 - Open external file(s) [[C:\Users\Apdil\AppData\Roaming\DBeaverData\workspace6\General\Scripts\dugsiiye exercises.sql]]
+2026-04-16 20:33:35.787 - Open external file(s) [[C:\Users\Apdil\AppData\Roaming\DBeaverData\workspace6\General\Scripts\Script-1.sql]]
+2026-04-16 20:33:46.350 - Connect with 'localhost' (mysql8-19d88102b75-17ec7387226ae179)
+2026-04-16 20:33:46.353 - Execution context opened (localhost; Main; 2)
+2026-04-16 20:33:46.361 - Execution context closed (localhost, 2)
+2026-04-16 20:33:55.333 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2026-04-16 20:33:55.570 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2026-04-16 20:34:02.053 - Connect with 'localhost' (mysql8-19d88102b75-17ec7387226ae179)
+2026-04-16 20:34:02.055 - Execution context opened (localhost; Main; 3)
+2026-04-16 20:34:02.060 - Execution context closed (localhost, 3)
+2026-04-16 20:34:18.270 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2026-04-16 20:34:18.415 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2026-04-16 20:34:33.971 - Connect with 'localhost' (mysql8-19d88102b75-17ec7387226ae179)
+2026-04-16 20:34:33.973 - Execution context opened (localhost; Main; 4)
+2026-04-16 20:34:33.979 - Execution context closed (localhost, 4)
+2026-04-16 20:34:39.730 - Connect with 'localhost' (mysql8-19d88102b75-17ec7387226ae179)
+2026-04-16 20:34:39.732 - Execution context opened (localhost; Main; 5)
+2026-04-16 20:34:39.738 - Execution context closed (localhost, 5)
+2026-04-16 20:37:15.884 - Connect with 'localhost' (mysql8-19d88102b75-17ec7387226ae179)
+2026-04-16 20:37:15.890 - Execution context opened (localhost; Main; 6)
+2026-04-16 20:37:15.919 - Execution context closed (localhost, 6)
+2026-04-16 20:37:19.123 - Connect with 'localhost' (mysql8-19d88102b75-17ec7387226ae179)
+2026-04-16 20:37:19.125 - Execution context opened (localhost; Main; 7)
+2026-04-16 20:37:19.129 - Execution context closed (localhost, 7)
+2026-04-16 20:37:22.230 - Connect with 'localhost 9' (mysql8-19d975ba252-14bfc845654d56cd)
+2026-04-16 20:37:22.232 - Execution context opened (localhost 9; Main; 8)
+2026-04-16 20:37:22.238 - Execution context closed (localhost 9, 8)
+2026-04-16 20:37:39.170 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2026-04-16 20:37:39.413 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2026-04-16 20:37:48.910 - Connect with 'localhost 10' (mysql8-19d975eb2fd-49d82f3b563c7204)
+2026-04-16 20:37:48.912 - Execution context opened (localhost 10; Main; 9)
+2026-04-16 20:37:48.919 - Execution context closed (localhost 10, 9)
+2026-04-16 20:37:57.017 - Connect with 'localhost 10' (mysql8-19d975eb2fd-49d82f3b563c7204)
+2026-04-16 20:37:57.018 - Execution context opened (localhost 10; Main; 10)
+2026-04-16 20:37:57.024 - Execution context closed (localhost 10, 10)
+2026-04-16 20:40:17.341 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2026-04-16 20:40:17.491 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2026-04-16 20:40:21.881 - Connect with 'localhost 11' (mysql8-19d97611cfd-191b8885346fe9f)
+2026-04-16 20:40:21.884 - Execution context opened (localhost 11; Main; 11)
+2026-04-16 20:40:22.431 - Execution context opened (localhost 11; Metadata; 12)
+2026-04-16 20:40:22.628 - Connected (mysql8-19d97611cfd-191b8885346fe9f, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+2026-04-16 20:40:37.851 - Connect with 'localhost 2' (mysql8-19d85eada28-6a5f7594dc82d6ae)
+2026-04-16 20:40:37.853 - Execution context opened (localhost 2; Main; 13)
+2026-04-16 20:40:37.862 - Execution context opened (localhost 2; Metadata; 14)
+2026-04-16 20:40:37.914 - Connected (mysql8-19d85eada28-6a5f7594dc82d6ae, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+2026-04-16 20:40:51.303 - Execution context closed (localhost 2, 13)
+2026-04-16 20:40:51.315 - Execution context closed (localhost 2, 14)
+2026-04-16 20:40:51.316 - Disconnected (mysql8-19d85eada28-6a5f7594dc82d6ae)
+2026-04-16 20:40:53.629 - Connect with 'localhost 3' (mysql8-19d8816f9eb-babef5959d71c0b)
+2026-04-16 20:40:53.630 - Execution context opened (localhost 3; Main; 15)
+2026-04-16 20:40:53.642 - Execution context opened (localhost 3; Metadata; 16)
+2026-04-16 20:40:53.690 - Connected (mysql8-19d8816f9eb-babef5959d71c0b, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+2026-04-16 20:41:07.702 - Execution context closed (localhost 3, 15)
+2026-04-16 20:41:07.714 - Execution context closed (localhost 3, 16)
+2026-04-16 20:41:07.714 - Disconnected (mysql8-19d8816f9eb-babef5959d71c0b)
+2026-04-16 20:41:09.692 - Connect with 'localhost 4' (mysql8-19d881a9a74-21efdfc92622f13f)
+2026-04-16 20:41:09.694 - Execution context opened (localhost 4; Main; 17)
+2026-04-16 20:41:09.706 - Execution context opened (localhost 4; Metadata; 18)
+2026-04-16 20:41:09.833 - Connected (mysql8-19d881a9a74-21efdfc92622f13f, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+2026-04-16 20:41:16.994 - Execution context closed (localhost 4, 17)
+2026-04-16 20:41:17.006 - Execution context closed (localhost 4, 18)
+2026-04-16 20:41:17.006 - Disconnected (mysql8-19d881a9a74-21efdfc92622f13f)
+2026-04-16 20:41:20.452 - Connect with 'localhost 5' (mysql8-19d8bf70d8c-61dce2f47b7ab92a)
+2026-04-16 20:41:20.453 - Execution context opened (localhost 5; Main; 19)
+2026-04-16 20:41:20.466 - Execution context opened (localhost 5; Metadata; 20)
+2026-04-16 20:41:20.525 - Execution context opened (localhost 5; SQLEditor <Script-2.sql>; 21)
+2026-04-16 20:41:20.546 - Connected (mysql8-19d8bf70d8c-61dce2f47b7ab92a, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+2026-04-16 20:41:33.455 - Execution context closed (localhost 5, 19)
+2026-04-16 20:41:33.469 - Execution context closed (localhost 5, 20)
+2026-04-16 20:41:33.480 - Execution context closed (localhost 5, 21)
+2026-04-16 20:41:33.481 - Disconnected (mysql8-19d8bf70d8c-61dce2f47b7ab92a)
+2026-04-16 20:41:33.646 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-2.sql)
+2026-04-16 20:41:34.377 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-2.sql)
+2026-04-16 20:41:35.464 - Connect with 'localhost 6' (mysql8-19d92600ca0-203d743948431cee)
+2026-04-16 20:41:35.464 - Execution context opened (localhost 6; Main; 22)
+2026-04-16 20:41:35.487 - Execution context opened (localhost 6; Metadata; 23)
+2026-04-16 20:41:35.592 - Connected (mysql8-19d92600ca0-203d743948431cee, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+2026-04-16 20:41:38.680 - Connect with 'localhost 7' (mysql8-19d9262ccaf-4925d42cbd5e6923)
+2026-04-16 20:41:38.682 - Execution context opened (localhost 7; Main; 24)
+2026-04-16 20:41:38.695 - Execution context opened (localhost 7; Metadata; 25)
+2026-04-16 20:41:38.747 - Connected (mysql8-19d9262ccaf-4925d42cbd5e6923, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+2026-04-16 20:41:41.418 - Connect with 'localhost 8' (mysql8-19d975b4861-1bf6a62b999ec383)
+2026-04-16 20:41:41.420 - Execution context opened (localhost 8; Main; 26)
+2026-04-16 20:41:41.431 - Execution context opened (localhost 8; Metadata; 27)
+2026-04-16 20:41:41.483 - Connected (mysql8-19d975b4861-1bf6a62b999ec383, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+2026-04-16 20:41:43.872 - Connect with 'localhost 9' (mysql8-19d975ba252-14bfc845654d56cd)
+2026-04-16 20:41:43.873 - Execution context opened (localhost 9; Main; 28)
+2026-04-16 20:41:43.887 - Execution context opened (localhost 9; Metadata; 29)
+2026-04-16 20:41:43.988 - Connected (mysql8-19d975ba252-14bfc845654d56cd, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+2026-04-16 20:41:56.236 - Execution context closed (localhost 6, 22)
+2026-04-16 20:41:56.248 - Execution context closed (localhost 6, 23)
+2026-04-16 20:41:56.249 - Disconnected (mysql8-19d92600ca0-203d743948431cee)
+2026-04-16 20:42:02.260 - Execution context closed (localhost 7, 24)
+2026-04-16 20:42:02.272 - Execution context closed (localhost 7, 25)
+2026-04-16 20:42:02.272 - Disconnected (mysql8-19d9262ccaf-4925d42cbd5e6923)
+2026-04-16 20:42:07.557 - Execution context closed (localhost 8, 26)
+2026-04-16 20:42:07.569 - Execution context closed (localhost 8, 27)
+2026-04-16 20:42:07.569 - Disconnected (mysql8-19d975b4861-1bf6a62b999ec383)
+2026-04-16 20:42:12.247 - Execution context closed (localhost 9, 28)
+2026-04-16 20:42:12.258 - Execution context closed (localhost 9, 29)
+2026-04-16 20:42:12.258 - Disconnected (mysql8-19d975ba252-14bfc845654d56cd)
+2026-04-16 20:42:14.816 - Connect with 'localhost' (mysql8-19d88102b75-17ec7387226ae179)
+2026-04-16 20:42:14.818 - Execution context opened (localhost; Main; 30)
+2026-04-16 20:42:14.883 - Execution context closed (localhost, 30)
+2026-04-16 20:42:18.472 - Connect with 'localhost' (mysql8-19d88102b75-17ec7387226ae179)
+2026-04-16 20:42:18.474 - Execution context opened (localhost; Main; 31)
+2026-04-16 20:42:18.481 - Execution context closed (localhost, 31)
+2026-04-16 20:42:27.264 - Datasource mysql8-19d975eb2fd-49d82f3b563c7204 not found in project General (/General/Scripts/Script-4.sql)
+2026-04-16 20:42:36.135 - Datasource mysql8-19d88102b75-17ec7387226ae179 not found in project General (/General/Scripts/Script.sql)
+2026-04-16 20:42:42.441 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2026-04-16 20:42:42.569 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2026-04-16 20:42:46.420 - Connect with 'localhost' (mysql8-19d976353d4-51978b677cc4c4e3)
+2026-04-16 20:42:46.421 - Execution context opened (localhost; Main; 32)
+2026-04-16 20:42:46.432 - Execution context opened (localhost; Metadata; 33)
+2026-04-16 20:42:46.472 - Connected (mysql8-19d976353d4-51978b677cc4c4e3, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+2026-04-16 20:42:46.494 - Execution context opened (localhost; SQLEditor <Script-5.sql>; 34)
+2026-04-16 20:42:49.744 - Datasource mysql8-19d85e56140-4d188a171c4e530b not found in project General (/General/Scripts/Script-1.sql)
+2026-04-16 20:42:49.745 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-2.sql)
+2026-04-16 20:42:49.746 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-3.sql)
+2026-04-16 20:42:49.747 - Datasource mysql8-19d975eb2fd-49d82f3b563c7204 not found in project General (/General/Scripts/Script-4.sql)
+2026-04-16 20:42:49.747 - Datasource mysql8-19d88102b75-17ec7387226ae179 not found in project General (/General/Scripts/Script.sql)
+2026-04-16 20:43:24.651 - Execution context opened (localhost 11; SQLEditor <Script-6.sql>; 35)
+2026-04-16 20:44:03.515 - Datasource mysql8-19d85e56140-4d188a171c4e530b not found in project General (/General/Scripts/Script-1.sql)
+2026-04-16 20:44:03.515 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-2.sql)
+2026-04-16 20:44:03.516 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-3.sql)
+2026-04-16 20:44:03.516 - Datasource mysql8-19d975eb2fd-49d82f3b563c7204 not found in project General (/General/Scripts/Script-4.sql)
+2026-04-16 20:44:03.516 - Datasource mysql8-19d88102b75-17ec7387226ae179 not found in project General (/General/Scripts/Script.sql)
+2026-04-16 20:44:42.052 - Execution context closed (localhost 11, 11)
+2026-04-16 20:44:42.065 - Execution context closed (localhost 11, 12)
+2026-04-16 20:44:42.077 - Execution context closed (localhost 11, 35)
+2026-04-16 20:44:42.078 - Disconnected (mysql8-19d97611cfd-191b8885346fe9f)
+2026-04-16 20:44:42.221 - Datasource mysql8-19d97611cfd-191b8885346fe9f not found in project General (/General/Scripts/Script-6.sql)
+2026-04-16 20:44:43.031 - Datasource mysql8-19d97611cfd-191b8885346fe9f not found in project General (/General/Scripts/Script-6.sql)
+> Start DBeaver Tasks View [org.jkiss.dbeaver.tasks.ui.view 1.0.125.202604051735]
+2026-04-16 20:44:51.577 - Datasource mysql8-19d97611cfd-191b8885346fe9f not found in project General (/General/Scripts/Script-6.sql)
+2026-04-16 20:44:51.580 - Execution context opened (localhost; SQLEditor <Script-6.sql>; 36)
+2026-04-16 20:45:12.462 - Datasource mysql8-19d85e56140-4d188a171c4e530b not found in project General (/General/Scripts/Script-1.sql)
+2026-04-16 20:45:12.463 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-2.sql)
+2026-04-16 20:45:12.463 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-3.sql)
+2026-04-16 20:45:12.463 - Datasource mysql8-19d975eb2fd-49d82f3b563c7204 not found in project General (/General/Scripts/Script-4.sql)
+2026-04-16 20:45:12.464 - Datasource mysql8-19d88102b75-17ec7387226ae179 not found in project General (/General/Scripts/Script.sql)
+2026-04-16 20:53:44.710 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2026-04-16 20:53:44.879 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+> Start DBeaver Data Transfer [org.jkiss.dbeaver.data.transfer 2.0.160.202604051735]
+2026-04-16 21:00:41.788 - Table 'dugsiiye practice lessons.score' not found in metadata catalog
+2026-04-16 21:00:41.789 - Table 'dugsiiye practice lessons.score' not found in metadata catalog
+2026-04-16 21:00:41.790 - Table 'dugsiiye practice lessons.score' not found in metadata catalog
+2026-04-16 21:00:41.790 - Table 'dugsiiye practice lessons.score' not found in metadata catalog
+2026-04-16 21:01:09.843 - Table 'dugsiiye practice lessons.score' not found in metadata catalog
+2026-04-16 21:01:09.843 - Table 'dugsiiye practice lessons.score' not found in metadata catalog
+2026-04-16 21:01:09.843 - Table 'dugsiiye practice lessons.score' not found in metadata catalog
+2026-04-16 21:01:09.844 - Table 'dugsiiye practice lessons.score' not found in metadata catalog
+2026-04-16 21:06:54.478 - Table 'dugsiiye practice lessons.score' not found in metadata catalog
+2026-04-16 21:06:54.479 - Table 'dugsiiye practice lessons.score' not found in metadata catalog
+2026-04-16 21:06:54.479 - Table 'dugsiiye practice lessons.score' not found in metadata catalog
+2026-04-16 21:06:54.479 - Table 'dugsiiye practice lessons.score' not found in metadata catalog
+2026-04-16 21:08:04.697 - Table 'dugsiiye practice lessons.score' not found in metadata catalog
+2026-04-16 21:08:04.698 - Table 'dugsiiye practice lessons.score' not found in metadata catalog
+2026-04-16 21:08:04.699 - Table 'dugsiiye practice lessons.score' not found in metadata catalog
+2026-04-16 21:08:04.699 - Table 'dugsiiye practice lessons.score' not found in metadata catalog
+2026-04-16 21:10:29.361 - Can't parse numeric value [SELECT * 
+FROM score
+ORDER BY score DESC
+LIMIT 1;] using formatter: For input string: "SELECT "
+2026-04-16 21:10:29.362 - Can't parse numeric value [SELECT * 
+FROM score
+ORDER BY score DESC
+LIMIT 1;] using formatter: For input string: "SELECT "
+2026-04-16 21:10:29.365 - Can't parse numeric value [SELECT * 
+FROM score
+ORDER BY score DESC
+LIMIT 1;] using formatter: For input string: "SELECT "
+2026-04-16 21:10:29.367 - Can't parse numeric value [SELECT * 
+FROM score
+ORDER BY score DESC
+LIMIT 1;] using formatter: For input string: "SELECT "
+2026-04-16 21:10:29.370 - Can't parse numeric value [SELECT * 
+FROM score
+ORDER BY score DESC
+LIMIT 1;] using formatter: For input string: "SELECT "
+2026-04-16 21:28:33.003 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2026-04-16 21:28:33.132 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2026-04-16 21:29:13.209 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2026-04-16 21:29:13.402 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2026-04-16 21:29:18.273 - Datasource mysql8-19d85e56140-4d188a171c4e530b not found in project General (/General/Scripts/Script-1.sql)
+2026-04-16 21:29:18.273 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-2.sql)
+2026-04-16 21:29:18.273 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-3.sql)
+2026-04-16 21:29:18.273 - Datasource mysql8-19d975eb2fd-49d82f3b563c7204 not found in project General (/General/Scripts/Script-4.sql)
+2026-04-16 21:29:18.273 - Datasource mysql8-19d88102b75-17ec7387226ae179 not found in project General (/General/Scripts/Script.sql)
+2026-04-16 21:29:25.430 - Datasource mysql8-19d85e56140-4d188a171c4e530b not found in project General (/General/Scripts/Script-1.sql)
+2026-04-16 21:29:25.430 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-2.sql)
+2026-04-16 21:29:25.431 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-3.sql)
+2026-04-16 21:29:25.431 - Datasource mysql8-19d975eb2fd-49d82f3b563c7204 not found in project General (/General/Scripts/Script-4.sql)
+2026-04-16 21:29:25.432 - Datasource mysql8-19d88102b75-17ec7387226ae179 not found in project General (/General/Scripts/Script.sql)
+2026-04-16 21:29:25.660 - Datasource mysql8-19d85e56140-4d188a171c4e530b not found in project General (/General/Scripts/Script-1.sql)
+2026-04-16 21:29:25.661 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-2.sql)
+2026-04-16 21:29:25.661 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-3.sql)
+2026-04-16 21:29:25.662 - Datasource mysql8-19d975eb2fd-49d82f3b563c7204 not found in project General (/General/Scripts/Script-4.sql)
+2026-04-16 21:29:25.663 - Datasource mysql8-19d88102b75-17ec7387226ae179 not found in project General (/General/Scripts/Script.sql)
+2026-04-16 22:56:45.111 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2026-04-16 22:56:45.212 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2026-04-16 22:56:49.860 - Datasource mysql8-19d85e56140-4d188a171c4e530b not found in project General (/General/Scripts/Script-1.sql)
+2026-04-16 22:56:49.860 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-2.sql)
+2026-04-16 22:56:49.860 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-3.sql)
+2026-04-16 22:56:49.860 - Datasource mysql8-19d975eb2fd-49d82f3b563c7204 not found in project General (/General/Scripts/Script-4.sql)
+2026-04-16 22:56:49.860 - Datasource mysql8-19d88102b75-17ec7387226ae179 not found in project General (/General/Scripts/Script.sql)
+2026-04-16 22:57:07.315 - Execution context closed (localhost, 34)
+2026-04-16 22:57:07.417 - Connect with 'localhost 5' (mysql8-19d97de0c84-644428ff289b32bc)
+2026-04-16 22:57:07.418 - Execution context opened (localhost 5; Main; 37)
+2026-04-16 22:57:07.490 - Execution context opened (localhost 5; Metadata; 38)
+2026-04-16 22:57:07.594 - Connected (mysql8-19d97de0c84-644428ff289b32bc, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+2026-04-16 22:57:07.633 - Execution context opened (localhost 5; SQLEditor <Script-5.sql>; 39)
+2026-04-16 22:57:34.314 - Datasource mysql8-19d85e56140-4d188a171c4e530b not found in project General (/General/Scripts/Script-1.sql)
+2026-04-16 22:57:34.314 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-2.sql)
+2026-04-16 22:57:34.314 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-3.sql)
+2026-04-16 22:57:34.314 - Datasource mysql8-19d975eb2fd-49d82f3b563c7204 not found in project General (/General/Scripts/Script-4.sql)
+2026-04-16 22:57:34.314 - Datasource mysql8-19d88102b75-17ec7387226ae179 not found in project General (/General/Scripts/Script.sql)
+2026-04-16 22:57:34.537 - Datasource mysql8-19d85e56140-4d188a171c4e530b not found in project General (/General/Scripts/Script-1.sql)
+2026-04-16 22:57:34.537 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-2.sql)
+2026-04-16 22:57:34.537 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-3.sql)
+2026-04-16 22:57:34.537 - Datasource mysql8-19d975eb2fd-49d82f3b563c7204 not found in project General (/General/Scripts/Script-4.sql)
+2026-04-16 22:57:34.537 - Datasource mysql8-19d88102b75-17ec7387226ae179 not found in project General (/General/Scripts/Script.sql)
+2026-04-16 22:57:53.386 - Datasource mysql8-19d85e56140-4d188a171c4e530b not found in project General (/General/Scripts/Script-1.sql)
+2026-04-16 22:57:53.386 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-2.sql)
+2026-04-16 22:57:53.386 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-3.sql)
+2026-04-16 22:57:53.386 - Datasource mysql8-19d975eb2fd-49d82f3b563c7204 not found in project General (/General/Scripts/Script-4.sql)
+2026-04-16 22:57:53.386 - Datasource mysql8-19d88102b75-17ec7387226ae179 not found in project General (/General/Scripts/Script.sql)
+2026-04-16 22:58:34.670 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2026-04-16 22:58:34.754 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2026-04-16 22:58:46.475 - Datasource mysql8-19d85e56140-4d188a171c4e530b not found in project General (/General/Scripts/Script-1.sql)
+2026-04-16 22:58:46.475 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-2.sql)
+2026-04-16 22:58:46.475 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-3.sql)
+2026-04-16 22:58:46.475 - Datasource mysql8-19d975eb2fd-49d82f3b563c7204 not found in project General (/General/Scripts/Script-4.sql)
+2026-04-16 22:58:46.475 - Datasource mysql8-19d88102b75-17ec7387226ae179 not found in project General (/General/Scripts/Script.sql)
+2026-04-16 22:58:46.725 - Datasource mysql8-19d85e56140-4d188a171c4e530b not found in project General (/General/Scripts/Script-1.sql)
+2026-04-16 22:58:46.726 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-2.sql)
+2026-04-16 22:58:46.726 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-3.sql)
+2026-04-16 22:58:46.726 - Datasource mysql8-19d975eb2fd-49d82f3b563c7204 not found in project General (/General/Scripts/Script-4.sql)
+2026-04-16 22:58:46.726 - Datasource mysql8-19d88102b75-17ec7387226ae179 not found in project General (/General/Scripts/Script.sql)
+2026-04-16 22:59:14.074 - Datasource mysql8-19d88102b75-17ec7387226ae179 not found in project General (/General/Scripts/Script.sql)
+2026-04-16 22:59:14.077 - Datasource mysql8-19d88102b75-17ec7387226ae179 not found in project General (/General/Scripts/Script.sql)
+2026-04-16 22:59:14.081 - Datasource mysql8-19d88102b75-17ec7387226ae179 not found in project General (/General/Scripts/Script.sql)
+2026-04-16 22:59:15.988 - Datasource mysql8-19d88102b75-17ec7387226ae179 not found in project General (/General/Scripts/Script.sql)
+2026-04-16 22:59:15.991 - Execution context opened (localhost 5; SQLEditor <Script.sql>; 40)
+2026-04-16 22:59:40.875 - Execution context closed (localhost 5, 40)
+2026-04-16 22:59:40.935 - Connect with 'localhost 4' (mysql8-19d978de93e-70b30bccbbc40389)
+2026-04-16 22:59:40.936 - Execution context opened (localhost 4; Main; 41)
+2026-04-16 22:59:40.950 - Execution context opened (localhost 4; Metadata; 42)
+2026-04-16 22:59:40.982 - Execution context opened (localhost 4; SQLEditor <Script.sql>; 43)
+2026-04-16 22:59:41.021 - Connected (mysql8-19d978de93e-70b30bccbbc40389, MySQL Connector/J [mysql-connector-j-8.2.0 (Revision: 06a1f724497fd81c6a659131fda822c9e5085b6c)])
+2026-04-16 22:59:49.264 - Execution context opened (localhost; SQLEditor <Script.sql>; 44)
+2026-04-16 22:59:49.274 - Execution context closed (localhost 4, 43)
+2026-04-16 23:13:44.778 - Table 'exercise 5.students' not found in metadata catalog
+2026-04-16 23:13:44.778 - Table 'exercise 5.courses' not found in metadata catalog
+2026-04-16 23:14:26.879 - Table 'exercise 5.students' not found in metadata catalog
+2026-04-16 23:14:26.880 - Table 'exercise 5.courses' not found in metadata catalog
+2026-04-16 23:14:32.694 - Table 'exercise 5.students' not found in metadata catalog
+2026-04-16 23:14:32.695 - Table 'exercise 5.courses' not found in metadata catalog
+2026-04-16 23:15:29.605 - Table 'exercise 5.courses' not found in metadata catalog
+2026-04-16 23:26:43.019 - Object 'student' not found in struct cache ()
+2026-04-16 23:26:43.021 - Object 'student' not found in struct cache ()
+2026-04-16 23:26:43.021 - Object 'student' not found in struct cache ()
+2026-04-16 23:26:43.021 - Object 'student' not found in struct cache ()
+2026-04-16 23:26:43.074 - Object 'PRIMARY' owner 'student' not found
+2026-04-16 23:26:43.101 - Object 'student' not found in struct cache ()
+2026-04-16 23:26:43.101 - Object 'student' not found in struct cache ()
+2026-04-16 23:26:43.101 - Object 'student' not found in struct cache ()
+2026-04-16 23:26:43.102 - Object 'student' not found in struct cache ()
+2026-04-16 23:26:43.105 - Object 'student' not found in struct cache ()
+2026-04-16 23:26:43.105 - Object 'student' not found in struct cache ()
+2026-04-16 23:26:43.105 - Object 'student' not found in struct cache ()
+2026-04-16 23:26:43.105 - Object 'student' not found in struct cache ()
+2026-04-16 23:26:43.110 - Object 'PRIMARY' owner 'student' not found
+2026-04-16 23:26:43.113 - Object 'student' not found in struct cache ()
+2026-04-16 23:26:43.113 - Object 'student' not found in struct cache ()
+2026-04-16 23:26:43.113 - Object 'student' not found in struct cache ()
+2026-04-16 23:26:43.113 - Object 'student' not found in struct cache ()
+2026-04-16 23:27:32.303 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/Script-2.sql)
+2026-04-16 23:27:32.522 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/exercise 4.sql)
+2026-04-16 23:27:32.565 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/exercise 4.sql)
+2026-04-16 23:27:33.044 - Datasource mysql8-19d8bf70d8c-61dce2f47b7ab92a not found in project General (/General/Scripts/exercise 4.sql)
+2026-04-16 23:29:51.000 - Execution context closed (localhost, 44)
+2026-04-16 23:29:51.135 - Execution context closed (localhost 5, 39)
+2026-04-16 23:29:51.247 - Execution context closed (localhost, 36)
+2026-04-16 23:29:52.154 - Dispose navigator model
+2026-04-16 23:29:52.241 - DBeaver is stopping
+2026-04-16 23:29:52.258 - Stop instance server
+2026-04-16 23:29:53.266 - DBeaver shutdown completed
+2026-04-16 23:29:53.278 - Instance server has been stopped
+2026-04-16 23:29:53.493 - Shutdown desktop platform...
+2026-04-16 23:29:53.511 - Send collected statistics
+2026-04-16 23:29:53.526 - Open [https://stats.dbeaver.com/send-statistics?session=cbb95564-2fbd-4054-94bb-eaf113ece42c&time=1776360758]
+2026-04-16 23:29:55.385 - Statistics sent (OK)
+2026-04-16 23:29:55.404 - Execution context closed (localhost, 32)
+2026-04-16 23:29:55.416 - Execution context closed (localhost, 33)
+2026-04-16 23:29:55.417 - Disconnected (mysql8-19d976353d4-51978b677cc4c4e3)
+2026-04-16 23:29:55.429 - Execution context closed (localhost 4, 41)
+2026-04-16 23:29:55.440 - Execution context closed (localhost 4, 42)
+2026-04-16 23:29:55.441 - Disconnected (mysql8-19d978de93e-70b30bccbbc40389)
+2026-04-16 23:29:55.452 - Execution context closed (localhost 5, 37)
+2026-04-16 23:29:55.464 - Execution context closed (localhost 5, 38)
+2026-04-16 23:29:55.464 - Disconnected (mysql8-19d97de0c84-644428ff289b32bc)
+2026-04-16 23:29:55.860 - Platform shutdown completed (2363ms)
